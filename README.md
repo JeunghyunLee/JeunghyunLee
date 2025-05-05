@@ -1,4 +1,11 @@
-## Hi there 👋
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JeunghyunLee&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/JeunghyunLee?pet-id=707026893496770401"
+    width="600"
+    height="120"
+  />
+</a>
 
 <!--
 **JeunghyunLee/JeunghyunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
